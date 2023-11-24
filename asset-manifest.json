@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/gitrear/static/css/main.f855e6bc.css",
-    "main.js": "/gitrear/static/js/main.0f83b23f.js",
-    "static/js/787.e1a3ae21.chunk.js": "/gitrear/static/js/787.e1a3ae21.chunk.js",
+    "main.css": "/gitrear/static/css/main.6522e9ce.css",
+    "main.js": "/gitrear/static/js/main.17c40a04.js",
     "static/media/logo.svg": "/gitrear/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gitrear/index.html",
-    "main.f855e6bc.css.map": "/gitrear/static/css/main.f855e6bc.css.map",
-    "main.0f83b23f.js.map": "/gitrear/static/js/main.0f83b23f.js.map",
-    "787.e1a3ae21.chunk.js.map": "/gitrear/static/js/787.e1a3ae21.chunk.js.map"
+    "main.6522e9ce.css.map": "/gitrear/static/css/main.6522e9ce.css.map",
+    "main.17c40a04.js.map": "/gitrear/static/js/main.17c40a04.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0f83b23f.js"
+    "static/css/main.6522e9ce.css",
+    "static/js/main.17c40a04.js"
   ]
 }
